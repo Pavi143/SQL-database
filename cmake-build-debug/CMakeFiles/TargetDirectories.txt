@@ -1,0 +1,3 @@
+/home/mia/projects/c/sql-clone/cmake-build-debug/CMakeFiles/sql_clone.dir
+/home/mia/projects/c/sql-clone/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mia/projects/c/sql-clone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
